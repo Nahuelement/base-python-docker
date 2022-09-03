@@ -134,8 +134,8 @@ STATIC_URL = '/static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-GEOS_LIBRARY_PATH = '/py/lib/site-packages/osgeo/geos_c.dll'
-GDAL_LIBRARY_PATH = '/py/lib/site-packages/osgeo/gdal304.dll'
+# GEOS_LIBRARY_PATH = '/py/lib/site-packages/osgeo/geos_c.dll'
+# GDAL_LIBRARY_PATH = '/py/lib/site-packages/osgeo/gdal304.dll'
 
 
 
